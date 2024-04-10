@@ -1,0 +1,2 @@
+contactuscomponentFunctionalShouldSubmitForm=true
+placefitnesstrainerappointmentcomponentFunctionalShouldBePlaceGiftCardOrder=true
